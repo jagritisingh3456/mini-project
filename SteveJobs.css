@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Lexend:wght@300&family=Libre+Baskerville:wght@400;700&family=Manrope:wght@700&family=PT+Sans&family=Roboto&display=swap');
+*{
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;;
+}
+
+#first-div{
+    background-color: #000;
+    min-height: 100vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.first-p{
+   font-size: 50px;
+}
+
+.first-no{
+   font-size: 25px;
+   padding: 20px;
+}
+
+#second-div{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p{
+    font-size:40px;
+    display: flex;
+    align-items: center;
+    max-width: 400px;
+}
+
+h1{
+    color: white;
+    font-size: 60px;
+    padding:0px 250px;
+}
+
+#third-div{
+    background-color: #000;
+    min-height: 100vh;
+    height: 700px;  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+summary{
+    font-size: 24px;
+    color: white;
+    max-width: 560px;
+    display: flex;
+    align-items: center;  
+}
+
+.hr{
+    width: 700px;
+    padding:50px 330px;   
+}
+
+span{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+}
